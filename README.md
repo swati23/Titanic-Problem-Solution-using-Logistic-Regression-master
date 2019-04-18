@@ -1,5 +1,5 @@
-# titanic-problem-solution-using-logistic-regression
-it is solution of titanic kaggle problem
+# Titanic-Problem-Solution-using-Logistic-Regression
+This is solution of titanic kaggle problem (Predict survival on the Titanic and get familiar with ML basics)
 # LIBRARIES REQUIRED:<br/>
 1. numpy<br/>
 2.pandas <br/>
